@@ -6,7 +6,7 @@ h1{
     text-align: center;
 }
 div{
-    height: 700px;
+    height: 500px;
     border: 2px solid white;
     border-radius: 20px;
     display: flex;
